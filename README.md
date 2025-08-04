@@ -25,3 +25,6 @@ The `.gitignore` file tells Git **which files or folders to skip**, such as:
 4. **Make your edits** and commit them.
 5. **Push** the branch to your GitHub fork.
 6. **Open a pull request** to suggest your changes to the original repo.
+
+## Task Summary
+This repo was created for practicing Git & GitHub skills.
